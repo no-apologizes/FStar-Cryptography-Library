@@ -10,7 +10,7 @@ set(FSTAR_ULIB "$ENV{HOME}/.opam/fstar/lib/fstar/ulib")
 
 # Only YOUR modules go here — LowStar.Printf is handled separately below
 # since it lives in F*'s ulib, not your project directory.
-set(MODULE_NAMES "Utils" "Andie")
+set(MODULE_NAMES "Math" "Andie")
 
 # LowStar.Printf.fst lives in F*'s ulib (${FSTAR_HOME}/lib/fstar/ulib/LowStar.Printf.fst),
 # NOT in karamel's krmllib. Its C implementation (lowstar_printf.c) is in

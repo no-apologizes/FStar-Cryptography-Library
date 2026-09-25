@@ -1,1 +1,1 @@
-Claude Sonnet 5 Medium was used to debug and figure out how do install the language and get it to compile. It has taken me 2 hours ~30 minutes to even get the language to work.
+Claude Sonnet 5 Medium Chat(Claude Code is somehow different) was used to debug and figure out how do install the language and get it to compile. It has taken me 2 hours ~30 minutes to even get the language to work.
